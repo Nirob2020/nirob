@@ -1,0 +1,48 @@
+body {background-color: black;
+
+
+background-image: url(../imges/couple-lovers-romantic-love-hearts-sparklers-night-5760x3840-1789.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+  
+height: 800px;
+    width: 400px;
+    
+    
+
+}
+.a1{
+    
+    width: 800px;
+    height: 400px;
+    text-align: center;
+    color: aqua;
+    margin-left: 250px;
+    font-size:30px;
+    font-family: sans-serif;
+}
+.a2{
+     width: 800px;
+    height: 400px;
+    text-align: justify;
+    color: #f5fcfc;
+    margin-left: 250px;
+    font-size:30px;
+    font-family: sans-serif;
+    margin-top:-300px;
+
+}
+    
+.a3{
+ color: aliceblue;
+    opacity: 0.8;
+    width: 800px;
+    height: 400px;
+        text-align: justify;
+     margin-top:350px;
+ margin-left: 250px;
+}  
+.a4{ width:1350px;
+    margin-left:-250px;
+      margin-right:-200px
+}
