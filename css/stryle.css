@@ -36,11 +36,12 @@ height: 800px;
 .a3{
  color: aliceblue;
     opacity: 0.8;
-    width: 800px;
-    height: 400px;
+    width: 1300px;
+    height: 500px;
         text-align: justify;
      margin-top:350px;
- margin-left: 250px;
+ margin-left -200px;
+    margin-right -450px;
 }  
 .a4{ width:1350px;
     margin-left:-250px;
